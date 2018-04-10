@@ -1,0 +1,23 @@
+h1 {
+	color:#77aadd;
+}
+h2 {
+	color:white;
+}
+p {
+	font-size:18px;
+	color:white;
+}
+th {
+	color:white;
+}
+fieldset {
+	background-color:#77aadd;
+	width : 70%;
+}
+label {
+	color:white;
+}
+img {
+	vertical-align:middle;
+}
